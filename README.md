@@ -1,4 +1,4 @@
-# This repository contains my Linux C Shell emulator done in my second year (September 2022). 
+# This repository contains a Linux C Shell emulator done in my second year (September 2022). 
 
 <!-- include gif -->
 ![shell](./demo.gif)
