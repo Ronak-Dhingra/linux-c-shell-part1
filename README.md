@@ -8,7 +8,7 @@
 - Prompt with username, hostname and current working directory
 - Running commands with arguments
 - Running commands in foreground and background
-- `cd`, `ls`, `echo`, `pinfo`, `history` and `quit` commands
+- `cd`, `ls`, `echo`, `pinfo`, `history` and `Ctrl+C` commands
 
 
 ## Requirements
